@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_QbkjwX0fEee1OY88pB8y6g" label="Tagada" description="" language="java" technicalLabel="TAGADA" creationDate="2017-08-09T18:13:45.000+0200" author="_Qbkjwn0fEee1OY88pB8y6g" productVersion="Talend Data Fabric-6.5.0.20170725_1102-M1" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/smallet/ubiquitous-broccoli.git&quot;,&quot;login&quot;:&quot;smallet&quot;,&quot;passwd&quot;:&quot;t9JeLg0PkWuHsnk/ZDUqag==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:User xmi:id="_Qbkjwn0fEee1OY88pB8y6g" login="smallet@talend.com" firstName="Stéphane" lastName="Mallet" type="DQ" additionnalData="{}"/>
+</xmi:XMI>
